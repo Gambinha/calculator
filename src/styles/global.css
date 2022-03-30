@@ -1,0 +1,19 @@
+*, body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body, 
+input, 
+button, 
+textarea{
+    font: 500 1.6rem Poppins;
+    color: var(--color-text-base);
+}
+
+:root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
